@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(255, 246, 216)
+}
+
+.seletor{
+    margin-left: 100px;
+}
+
+.h1_1{
+    color: rgb(144, 103, 24);
+}
+
+.h3_1{
+    color: rgb(144, 103, 24);
+}
+
+.h6_1{
+    color: white;
+    background-color: rgb(212, 139, 0);
+}
+
+.linhas{
+    border-top: dashed 3px;
+    color:rgb(144, 103, 24)
+}
+
+img{
+    width: 80px;
+    height: 500px;
+}
+
+img{
+    display: inline-block;   
+}
+
+img{
+    float: left;
+}
